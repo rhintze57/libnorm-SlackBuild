@@ -1,0 +1,1 @@
+# libnorm-SlackBuild
